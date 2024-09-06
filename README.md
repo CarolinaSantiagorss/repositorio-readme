@@ -14,3 +14,5 @@ Para Clonar o projeto:
 ```
 escreva o codigo aqui 
 ```
+## Dificuldades que eu tive 
+- escrever dificuldades em desenvolver o projeto
